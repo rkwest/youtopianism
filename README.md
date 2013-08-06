@@ -5,7 +5,7 @@ Youtopianism
 What?
 =====
 
-A decentralized open-source religion.
+A decentralized open-source religion focused on creating a better future through optimism and a focus on individual responsibility.
 
 Why?
 ====
